@@ -1,7 +1,5 @@
 # 🤖 VIRTUAL-ASSISTANT 🤖
 
-### 🔶 One of my best completely self-built from scratch projects 🔶
-
 >### This Project is the Virtual Assistant that's been created by using Libraries and end-to-end Customization
 
 ### ***`"Olivia"`*** is the name of my Assistant and does whatever you ask her to do!!
